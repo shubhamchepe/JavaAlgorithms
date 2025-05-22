@@ -1,4 +1,5 @@
 //Swap values of a & b with using third variable
+package PracticeOne;
 
 public class SwapTwoNumbers {
    public static void main(String[] args) {
